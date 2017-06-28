@@ -3,7 +3,7 @@
   "description": "Elasticsearch adapter for FeathersJs",
   "version": "0.3.1",
   "homepage": "https://github.com/feathersjs/feathers-elasticsearch",
-  "main": "lib/",
+  "main": "lib/index",
   "keywords": [
     "feathers",
     "feathers-plugin"
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathersjs/feathers-elasticsearch.git"
+    "url": "git://github.com/xwa130/feathers-elasticsearch.git"
   },
   "author": {
     "name": "Feathers contributors",
